@@ -1,0 +1,41 @@
+{
+  "name": "Deep Calm Waters",
+  "dark": true,
+  "author": "naoyukik",
+  "editorScheme": "/calm_waters.xml",
+  "colors": {
+    "base00": "#0d2a3b",
+    "base01": "#11344d",
+    "base02": "#004466",
+    "base03": "#285a75",
+    "base04": "#50798f",
+    "base05": "#789caa",
+    "base06": "#9fbece",
+    "base07": "#c3dfe8",
+    "base08": "#486a8a",
+    "base09": "#10537e",
+    "base0A": "#c3bf9f",
+    "base0B": "#8da870",
+    "base0C": "#206c5a",
+    "base0D": "#bcd7d4",
+    "base0E": "#17807e",
+    "base0F": "#70877f",
+    "base10": "#B22222"
+  },
+  "ui": {
+    "*": {
+      "background": "base00",
+      "separatorColor": "base02",
+      "borderColor": "base03",
+      "textColor": "base05",
+      "cursorColor": "base05"
+    },
+    "EditorTabs": {
+      "background": "base00",
+      "hoverBackground": "base02"
+    },
+    "Editor": {
+      "background": "base00"
+    }
+  }
+}
