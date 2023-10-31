@@ -1,9 +1,9 @@
 <scheme name="Deep Calm Waters" version="142" parent_scheme="Darcula">
     <metaInfo>
-        <property name="created">2023-10-29T21:38:12</property>
+        <property name="created">2023-10-31T20:46:39</property>
         <property name="ide">PhpStorm</property>
         <property name="ideVersion">2023.2.3.0.0</property>
-        <property name="modified">2023-10-29T21:38:30</property>
+        <property name="modified">2023-10-31T20:47:08</property>
     </metaInfo>
     <colors>
         <option name="CARET_COLOR" value="789caa" />
@@ -76,7 +76,7 @@
         </option>
         <option name="DEFAULT_KEYWORD">
             <value>
-                <option name="FOREGROUND" value="17807e" />
+                <option name="FOREGROUND" value="437c62" />
             </value>
         </option>
         <option name="DEFAULT_LINE_COMMENT">
@@ -102,6 +102,17 @@
         <option name="DEFAULT_SEMICOLON">
             <value>
                 <option name="FOREGROUND" value="9fbece" />
+            </value>
+        </option>
+        <option name="DEFAULT_TAG">
+            <value>
+                <option name="FOREGROUND" value="206c5a" />
+                <option name="EFFECT_TYPE" value="5" />
+            </value>
+        </option>
+        <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
+            <value>
+                <option name="BACKGROUND" value="4466" />
             </value>
         </option>
         <option name="DEFAULT_VALID_STRING_ESCAPE">
@@ -135,6 +146,13 @@
                 <option name="EFFECT_TYPE" value="2" />
             </value>
         </option>
+        <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
+        <option name="HTML_CUSTOM_TAG_NAME">
+            <value>
+                <option name="FOREGROUND" value="437c62" />
+            </value>
+        </option>
+        <option name="HTML_TAG" baseAttributes="DEFAULT_TAG" />
         <option name="HTML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
         <option name="INFO_ATTRIBUTES">
             <value>

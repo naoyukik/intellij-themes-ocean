@@ -1,7 +1,7 @@
 {
   "name": "Deep Calm Waters",
   "dark": true,
-  "author": "naoyukik",
+  "author": "DsTribe",
   "editorScheme": "/calm_waters.xml",
   "colors": {
     "base00": "#0d2a3b",
@@ -12,15 +12,16 @@
     "base05": "#789caa",
     "base06": "#9fbece",
     "base07": "#c3dfe8",
-    "base08": "#486a8a",
-    "base09": "#10537e",
+    "base08": "#437c62",
+    "base09": "#D2691E",
     "base0A": "#c3bf9f",
     "base0B": "#8da870",
     "base0C": "#206c5a",
     "base0D": "#bcd7d4",
     "base0E": "#17807e",
     "base0F": "#70877f",
-    "base10": "#B22222"
+    "base10": "#CD5C5C",
+    "base11": "#7b8794"
   },
   "ui": {
     "*": {
@@ -30,12 +31,27 @@
       "textColor": "base05",
       "cursorColor": "base05"
     },
-    "EditorTabs": {
-      "background": "base00",
-      "hoverBackground": "base02"
-    },
     "Editor": {
       "background": "base00"
-    }
+    },
+    "EditorTabs": {
+      "background": "base00",
+      "hoverBackground": "base03",
+      "underlinedTabBackground": "base02"
+    },
+    "DefaultTabs.underlinedTabBackground": "base02",
+    "ToolWindow": {
+      "Header": {
+        "background": "base00",
+        "inactiveBackground": "base00"
+      },
+      "HeaderTab": {
+        "hoverBackground": "base03",
+        "underlinedTabBackground": "base02"
+      }
+    },
+    "EditorTabs.underlineColor": "base04",
+    "EditorTabs.inactiveUnderlineColor": "base01",
+    "Tree.selectionBackground": "base02"
   }
 }
