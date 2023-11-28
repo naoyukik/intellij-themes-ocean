@@ -21,7 +21,8 @@
     "base0E": "#17807e",
     "base0F": "#70877f",
     "base10": "#CD5C5C",
-    "base11": "#7b8794"
+    "base11": "#7b8794",
+    "base12": "#702830"
   },
   "ui": {
     "*": {
@@ -52,6 +53,7 @@
     },
     "EditorTabs.underlineColor": "base04",
     "EditorTabs.inactiveUnderlineColor": "base01",
-    "Tree.selectionBackground": "base02"
+    "Tree.selectionBackground": "base02",
+    "Tree.hoverBackground": "base03"
   }
 }

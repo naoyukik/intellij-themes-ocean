@@ -62,6 +62,7 @@ To keep everything working, do not remove `<!-- ... -->` sections.
 .base0F { color: #70877f; } /* シーグリーン */
 .base10 { color: #CD5C5C; } /* Coral Reef */
 .base11 { color: #7b8794; } /* Pavement Gray */
+.base12 { color: #702830; } /* Firebrick3 */
 ```
 
 ## base 16 styling
@@ -84,6 +85,7 @@ base0E - Keywords, Storage, Selector, Markup Italic, Diff Changed
 base0F - Deprecated, Opening/Closing Embedded Language Tags, e.g. <?php ?>
 base10 - Error, Alert
 base11 - Disabled code, unused variables
+base12 - Further darkened background similar to Coral Reef suitable for dark theme
 ```
 <!-- Plugin description end -->
 
