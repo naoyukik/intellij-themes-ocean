@@ -1,9 +1,9 @@
 <scheme name="Deep Calm Waters" version="142" parent_scheme="Darcula">
     <metaInfo>
-        <property name="created">2023-12-23T14:04:44</property>
-        <property name="ide">PhpStorm</property>
-        <property name="ideVersion">2023.3.1.0.0</property>
-        <property name="modified">2023-12-23T14:05:16</property>
+        <property name="created">2023-12-23T21:43:53</property>
+        <property name="ide">idea</property>
+        <property name="ideVersion">2023.3.2.0.0</property>
+        <property name="modified">2023-12-23T21:44:20</property>
     </metaInfo>
     <colors>
         <option name="CARET_COLOR" value="789caa" />
@@ -153,7 +153,7 @@
         </option>
         <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
             <value>
-                <option name="BACKGROUND" value="4466" />
+                <option name="EFFECT_COLOR" value="4466" />
             </value>
         </option>
         <option name="DEFAULT_VALID_STRING_ESCAPE">
@@ -230,7 +230,8 @@
         </option>
         <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="4466" />
+                <option name="FOREGROUND" value="9fbece" />
+                <option name="BACKGROUND" value="285a75" />
                 <option name="ERROR_STRIPE_COLOR" value="36b13" />
                 <option name="EFFECT_TYPE" value="1" />
             </value>
@@ -290,7 +291,6 @@
                 <option name="FOREGROUND" value="7b8794" />
             </value>
         </option>
-        <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
         <option name="RUNTIME_ERROR">
             <value>
                 <option name="EFFECT_COLOR" value="c3bf9f" />
@@ -324,8 +324,7 @@
         </option>
         <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="4466" />
-                <option name="EFFECT_COLOR" value="285a75" />
+                <option name="BACKGROUND" value="285a75" />
                 <option name="ERROR_STRIPE_COLOR" value="61936f" />
             </value>
         </option>
