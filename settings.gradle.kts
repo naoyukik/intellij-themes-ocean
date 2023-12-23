@@ -2,4 +2,4 @@ plugins {
     id("org.gradle.toolchains.foojay-resolver-convention") version "0.7.0"
 }
 
-rootProject.name = "intellij-themes-ocean"
+rootProject.name = "intellij-themes-calm-waters"
