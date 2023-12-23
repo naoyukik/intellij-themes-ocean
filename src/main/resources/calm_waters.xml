@@ -1,9 +1,9 @@
 <scheme name="Deep Calm Waters" version="142" parent_scheme="Darcula">
     <metaInfo>
-        <property name="created">2023-11-11T21:39:40</property>
+        <property name="created">2023-12-23T14:04:44</property>
         <property name="ide">PhpStorm</property>
-        <property name="ideVersion">2023.2.3.0.0</property>
-        <property name="modified">2023-11-11T21:39:49</property>
+        <property name="ideVersion">2023.3.1.0.0</property>
+        <property name="modified">2023-12-23T14:05:16</property>
     </metaInfo>
     <colors>
         <option name="CARET_COLOR" value="789caa" />
@@ -112,13 +112,12 @@
         </option>
         <option name="DEFAULT_IDENTIFIER">
             <value>
-                <option name="FOREGROUND" value="789caa" />
-                <option name="EFFECT_TYPE" value="5" />
+                <option name="FOREGROUND" value="437c62" />
             </value>
         </option>
         <option name="DEFAULT_KEYWORD">
             <value>
-                <option name="FOREGROUND" value="17807e" />
+                <option name="FOREGROUND" value="437c62" />
             </value>
         </option>
         <option name="DEFAULT_LINE_COMMENT">
@@ -301,7 +300,8 @@
         </option>
         <option name="SEARCH_RESULT_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="4466" />
+                <option name="FOREGROUND" value="9fbece" />
+                <option name="BACKGROUND" value="285a75" />
                 <option name="ERROR_STRIPE_COLOR" value="530d" />
             </value>
         </option>
@@ -370,6 +370,14 @@
             <value>
                 <option name="EFFECT_COLOR" value="70877f" />
                 <option name="ERROR_STRIPE_COLOR" value="70877f" />
+                <option name="EFFECT_TYPE" value="1" />
+            </value>
+        </option>
+        <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+            <value>
+                <option name="FOREGROUND" value="9fbece" />
+                <option name="BACKGROUND" value="437c62" />
+                <option name="ERROR_STRIPE_COLOR" value="b56277" />
                 <option name="EFFECT_TYPE" value="1" />
             </value>
         </option>
